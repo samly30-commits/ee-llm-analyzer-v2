@@ -1,0 +1,13 @@
+streamlit>=1.35.0
+pandas>=2.1.0
+numpy>=1.26.0
+scipy>=1.11.0
+openpyxl>=3.1.0
+plotly>=5.18.0
+pytest>=8.0.0
+
+
+• 웹 UI 및 시각화: streamlit>=1.35.0, plotly>=5.18.0
+• 수치 연산 및 신호처리(FFT/THD): numpy>=1.26.0, scipy>=1.11.0
+• 데이터 처리 및 엑셀 파싱: pandas>=2.1.0, openpyxl>=3.1.0
+• 단위 테스트 검증: pytest>=8.0.0
