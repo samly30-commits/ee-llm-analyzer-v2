@@ -1,3 +1,4 @@
+<img width="500" height="200" alt="시연영상 (2)+00-00-00 000-00-03-02 160" src="https://github.com/user-attachments/assets/def50066-3d93-4e55-853d-93a978c5eb85" />
 
 # ee-llm-analyzer-v2
 # ⚡ LLM 기반 전기·전자 엔지니어링 통합 분석 및 검증 대시보드 (EE Engineering Automation Suite)
@@ -95,5 +96,4 @@ streamlit run app_2.py
 * **FFT 주파수 축 스케일 왜곡 해결 (`analyzer_2.py`):** 타임스탬프 인접 차이 평균(`dt = np.mean(np.diff(times))`)을 동적으로 계산해 `fftfreq(n, d=dt)`에 바인딩하고, DC 성분 제거 및 Hanning Window를 적용하여 스펙트럼 누설을 방지했습니다.
 * **비정형 압축 문자열 확장 (`bom_verifier_2.py`):** 정규표현식 그룹 캡처(`r"\b([A-Z]+)(\d+)\s*-\s*([A-Z]+)?(\d+)\b"`)를 적용해 `R1-R5` 표기를 개별 부품 리스트로 100% 복원했습니다.
 * **UI 상태 관리 및 DOM 충돌 방지 (`app_2.py`):** 토글 버튼 간 `st.session_state` 꼬임과 React `removeChild` DOM 충돌을 해결하기 위해 `st.segmented_control` 기반 무상태 분기 구조와 단일 `st.info` 컨테이너를 적용했습니다.
-<img width="500" height="200" alt="시연영상 (2)+00-00-00 000-00-03-02 160" src="https://github.com/user-attachments/assets/def50066-3d93-4e55-853d-93a978c5eb85" />
 
