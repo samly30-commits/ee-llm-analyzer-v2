@@ -1,4 +1,4 @@
-<img width="600" height="200" alt="시연영상 (2)+00-00-00 000-00-03-02 160" src="https://github.com/user-attachments/assets/6b0a3e85-373b-4946-a602-35a0c20ebefb" />
+<img width="900" height="200" alt="시연영상 (2)+00-00-00 000-00-03-02 160" src="https://github.com/user-attachments/assets/6b0a3e85-373b-4946-a602-35a0c20ebefb" />
 
 # ee-llm-analyzer-v2
 # ⚡ LLM 기반 전기·전자 엔지니어링 통합 분석 및 검증 대시보드 (EE Engineering Automation Suite)
