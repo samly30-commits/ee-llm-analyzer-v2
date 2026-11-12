@@ -38,7 +38,7 @@ ee-llm-analyzer_2/
 ├── tests/
 │   └── test_core.py                    # PyTest 기반 주파수 정확도 및 파싱 단위 테스트
 ├── docs/
-│   └── ee_llm_analyzer_presentation_v5.pptx # 최종 프로젝트 발표 자료
+│   └── ee_llm_analyzer_presentation_v2.pptx # 최종 프로젝트 발표 자료
 ├── prompts/
 │   └── prompt_history.md               # LLM 디버깅 및 프롬프트 엔지니어링 이력
 ├── requirements.txt                    # 필수 Python 패키지 목록
